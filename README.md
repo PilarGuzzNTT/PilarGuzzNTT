@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **PilarGuzzNTT/PilarGuzzNTT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+<div align="center">
+
+
+
+<a href="https://git.io/typing-svg"  ><img   src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=300&color=00AE32&width=435&lines=%3C%F0%9F%91%8B+Hello+World%2F%3E;%3C%F0%9F%91%8B+Hola+Mundo%2F%3E;%3C%F0%9F%91%8B+Namaste+World%2F%3E;%3C%F0%9F%91%8B+Ciao+World%2F%3E;%3C%F0%9F%91%8B+Ni+Hao+World%2F%3E" alt="Typing SVG" /></a>
+</div>  
+
+### <div align="center">I'm Pilar, a full-time web application development student💻🚀</div>  
